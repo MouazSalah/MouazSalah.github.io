@@ -15,7 +15,7 @@ export default function HeroSection() {
         <div className="elmentor-hero-content">
         
       <h1 className="elmentor-hero-title">
-          Mouaz Salah
+          Mouaaaz salah
         </h1>
 
         <h1 className="elmentor-hero-title">
